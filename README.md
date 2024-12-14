@@ -98,7 +98,7 @@ Contributions are welcome to improve this project! To contribute:
 
 
 ## **Contact**
-For questions, suggestions, or feedback, feel free to reach out:
+For questions, corrections, suggestions, or feedback, feel free to reach out:
 
 - **Author**: Umar Zakariyya Muhammad  
 - **Email**: [zakariyyaumarm@gmail.com](mailto:zakariyyaumarm@gmail.com)  
