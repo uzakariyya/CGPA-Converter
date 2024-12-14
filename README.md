@@ -107,3 +107,4 @@ For questions, corrections, suggestions, or feedback, feel free to reach out:
 - **Author**: Umar Zakariyya Muhammad  
 - **Email**: [zakariyyaumarm@gmail.com](mailto:zakariyyaumarm@gmail.com)  
 - **GitHub**: [https://github.com/uzakariyya](https://github.com/uzakariyya)
+- **Medium**: [https://medium.com/@uzakariyya](https://medium.com/@uzakariyya)
